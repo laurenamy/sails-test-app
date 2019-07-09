@@ -371,7 +371,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://boiling-dawn-66043.herokuapp.com/',
+    baseUrl: 'https://boiling-dawn-66043.herokuapp.com',
     internalEmailAddress: 'support@example.com',
 
     // mailgunDomain: 'mg.example.com',
