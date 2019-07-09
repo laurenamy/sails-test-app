@@ -42,7 +42,7 @@ module.exports = Object.assign({}, PRODUCTION_CONFIG, {
     onlyAllowOrigins: [
       'http://localhost:1337',
       'https://boiling-dawn-66043.herokuapp.com/',
-      // 'http://example-staging.herokuapp.com',
+      'https://cryptic-chamber-18006.herokuapp.com/',
       // 'https://staging.example.com',
       // 'http://staging.example.com',
     ],
