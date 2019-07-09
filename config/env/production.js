@@ -149,7 +149,7 @@ module.exports = {
     ***************************************************************************/
     cors: {
       allowOrigins: [
-        'https://boiling-dawn-66043.herokuapp.com/',
+        'https://boiling-dawn-66043.herokuapp.com',
       ]
     },
 
